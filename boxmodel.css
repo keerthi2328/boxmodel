@@ -1,0 +1,40 @@
+.container{
+    width: 100%;
+    padding: 5px;
+    border: 2px solid black;
+}
+section{
+    display: inline-block;
+}
+img,h1,p{
+    width: 200px;
+    height: 200px;
+}
+#img1{
+    
+    vertical-align: top;
+    height: auto;
+    
+}
+#img2{
+    
+    vertical-align: top;
+    height: auto;
+    
+}
+#img3{
+    
+    vertical-align: top;
+    height: auto;
+    
+}
+#img4{
+    
+    vertical-align: top;
+    height: auto;
+    
+}
+*{
+    text-align: center;
+    padding: 20px;
+}
